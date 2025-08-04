@@ -31,4 +31,4 @@ npm run start
 
 ## Preview:
 
-![Alt text](./my-app/public/preview1.png?raw=true 'Preview 1')
+![Alt text](./my-app/public/preview.png?raw=true 'Preview')
